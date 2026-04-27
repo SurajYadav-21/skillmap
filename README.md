@@ -1,6 +1,6 @@
 # SkillMap
 
-Dark-gray + mint-green learning platform with role/skill-based roadmaps, quizzes, projects, resources, docs, AI-assisted learning, and a SaaS-grade admin dashboard.
+learning platform with role/skill-based roadmaps, quizzes, projects, resources, docs, AI-assisted learning, and a SaaS-grade admin dashboard.
 
 ## Stack
 - **Backend**: Spring Boot 3.2, Java 17, Spring Security + JWT, Spring Data MongoDB
