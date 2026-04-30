@@ -43,5 +43,3 @@ AI integration for smart suggestions
 - Admin dashboard with Recharts analytics, CRUD for all entities, user management
 - JWT auth with `ROLE_USER` / `ROLE_ADMIN`
 - Seeded sample data on first boot
-
-# Home Page :
