@@ -1,9 +1,9 @@
-# SkillMap
+##SkillMap
 AI-Powered Learning Roadmap Platform
 An intelligent full-stack web application that helps students and developers follow structured, goal-oriented learning paths with AI-driven recommendations.
 learning platform with role/skill-based roadmaps, quizzes, projects, resources, docs, AI-assisted learning, and a SaaS-grade admin dashboard.
 
-# Overview
+##Overview
 Learning new technologies can be overwhelming due to scattered resources and lack of direction. This platform solves that problem by generating clear, structured roadmaps for any domain such as Full Stack Development, Cloud Computing, or Data Analytics.
 
 Each roadmap provides:-
@@ -12,7 +12,7 @@ Each roadmap provides:-
 - Curated resources and documentation
 - AI-based learning suggestions
 
-# Stack
+##Stack
 - Backend: Spring Boot 3.2, Java 17, Spring Security + JWT, Spring Data MongoDB
 - Frontend: React 18 + Vite + Tailwind + shadcn/ui + @dnd-kit + Recharts
 - DB: MongoDB 7
@@ -22,13 +22,13 @@ Each roadmap provides:-
 - Swagger  → http://localhost:8080/swagger-ui.html
 - Admin    → `admin@skillmap.dev` / `Admin@123`
 
-# Architecture
+##Architecture
 RESTful APIs built using Spring Boot
 Modular backend design for scalability
 React-based dynamic UI
 AI integration for smart suggestions
 
-# Features
+##Features
 - AI-generated learning roadmaps
 - Topic-wise concepts and resources
 - Structured step-by-step guidance
