@@ -51,25 +51,31 @@ AI integration for smart suggestions
 
 #Home_Page :-
 
+
 <img width="1363" height="644" alt="Home_Page" src="https://github.com/user-attachments/assets/f6ad95aa-f868-434b-b651-2e326c6e09b2" />
 
 #Admin_Page :-
+
 
 <img width="1363" height="644" alt="Admin_Page" src="https://github.com/user-attachments/assets/4930058a-78f2-48c0-bd65-554b11342e0e" />
 
 #Admin_Documentation :-
 
+
 <img width="1363" height="644" alt="Admin_Doc" src="https://github.com/user-attachments/assets/9d64edba-547b-4192-bca3-48fda835287e" />
 
 #Roadmaps_Page :-
+
 
 <img width="1363" height="644" alt="Rename_Page" src="https://github.com/user-attachments/assets/04a137dc-85cd-4b01-a2ff-5ccc0db68d71" />
 
 #Guidance_Page :-
 
+
 <img width="1363" height="644" alt="Guidance_Page" src="https://github.com/user-attachments/assets/cfc76092-30ad-4423-9057-5d1756aef221" />
 
 #Quizzes_Page :-
+
 
 <img width="1363" height="644" alt="Quizzes" src="https://github.com/user-attachments/assets/c3971324-4178-46c3-b5fa-8ffdfadaad25" />
 
